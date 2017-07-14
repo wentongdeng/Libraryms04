@@ -14,6 +14,12 @@ import com.it.entity.User;
 import com.it.entity.UserDAO;
 import com.it.util.UtilApp;
 import com.opensymphony.xwork2.ActionSupport;
+/**
+ * 
+ * @author dengwt
+ *
+ */
+
 
 public class BooksAction extends ActionSupport {
 
